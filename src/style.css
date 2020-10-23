@@ -1,0 +1,40 @@
+.form-error {
+    color: red;
+  }
+  .regRequired {
+    color: red;
+  }
+  
+.sidebar{
+    width:20%;
+    /* background: grey; */
+    color:red;
+    height:500px
+}
+
+.breadcrumb {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 0.25rem 0.25rem;
+    /* margin-bottom: 1rem; */
+    list-style: none;
+    background-color: #444;
+    border-radius: 0.25rem;
+}
+.panel{
+margin-bottom: 21px;
+/* background-color: #303030; */
+border: 1px solid transparent;
+border-radius: 4px;
+/* -webkit-box-shadow: 0 1px 1px rgba(0,0,0,0.05); */
+/* box-shadow: 0 1px 1px rgba(0,0,0,0.05); */
+}
+
+.panel-default {
+    border-color: #464545;
+}
+tr_style{
+line-height: 10px;
+min-height: 10px;
+height: 10px;
+}
